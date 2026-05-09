@@ -74,8 +74,6 @@ This lazy UP hasn't earned any awards so far!
 # Vision
 1. Build a personal blog website
 <img width="256" height="256" alt="我在听" src="https://github.com/user-attachments/assets/635b09b4-b772-455b-9e58-96e24d649ca9" />
-
-
-3. Develop an original game
+2. Develop an original game
 
 ---
